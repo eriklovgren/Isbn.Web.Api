@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Isbn.Web.Api.props" />
+</Project>

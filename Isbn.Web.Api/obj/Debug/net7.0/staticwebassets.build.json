@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+VgUV2LytMHxNZCwGaN0YPkduMH5EOnZqInE3eudPJA=",
+  "Source": "Isbn.Web.Api",
+  "BasePath": "_content/Isbn.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
